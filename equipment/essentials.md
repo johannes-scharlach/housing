@@ -6,3 +6,4 @@ When moving in, we'll also need a few essentials. We should make sure that at le
 - [ ] dish soap
 - [ ] dish washer powder
 - [ ] general cleaning agent
+- [ ] washing powder
