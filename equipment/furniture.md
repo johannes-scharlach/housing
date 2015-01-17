@@ -7,6 +7,7 @@
 - [x] kitchen storage rack
 - [x] shelves
 - [x] lamp
+- [ ] kitchen table
 
 ## Living
 - [x] TV rack
@@ -15,6 +16,9 @@
 - [x] 2 lamps
 - [x] huge black storage rack
 - [x] small black couch
+- [ ] large couch
+- [ ] decoration-stuff
+- [ ] carpet
 
 ## Balcony
 - [x] Hollywood swing
