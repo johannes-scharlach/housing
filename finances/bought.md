@@ -21,3 +21,9 @@ Consumed:
 - Johannes: €45
 - Remus: €36
 - Common: €1109
+
+# Monthly Expenses:
+- Internet: 30
+- Electricity: 42
+- Rent: 1668
+- Total: 1740 = 3 * 580
