@@ -4,5 +4,5 @@
 Name   | Spent | receives
 ------ | ----- | --------
 Johannes | 34€ | 
-Dani   |  | 
+Dani   | 31.5€ | 
 Remus  |  | 
